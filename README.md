@@ -8,6 +8,7 @@ Requirements:
 
 Setup:
 * `pip install -r requirements.txt`
+* `cp settings.cfg.example settings.cfg` + fill with your values
 
 To run locally:
 * `sudo neo4j start`
