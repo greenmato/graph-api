@@ -1,0 +1,4 @@
+DEBUG = True
+DB_HOST = 'bolt://localhost:7687'
+DB_USER = 'neo4j'
+DB_PASS = 'secret'
